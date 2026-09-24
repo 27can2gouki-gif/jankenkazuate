@@ -139,7 +139,13 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="じゃんけん数当て１.cpp" />
+    <ClCompile Include="janken.cpp" />
+    <ClCompile Include="kazuate.cpp" />
+    <ClCompile Include="MAIN TITLE.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="janken.h" />
+    <ClInclude Include="kazuate.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

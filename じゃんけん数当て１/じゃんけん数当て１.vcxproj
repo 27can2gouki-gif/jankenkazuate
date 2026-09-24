@@ -144,6 +144,7 @@
     <ClCompile Include="MAIN TITLE.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Dice.h" />
     <ClInclude Include="janken.h" />
     <ClInclude Include="kazuate.h" />
   </ItemGroup>

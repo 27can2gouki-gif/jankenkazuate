@@ -32,5 +32,8 @@
     <ClInclude Include="kazuate.h">
       <Filter>ソース ファイル</Filter>
     </ClInclude>
+    <ClInclude Include="Dice.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

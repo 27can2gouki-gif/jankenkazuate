@@ -1,5 +1,4 @@
 ﻿#include <iostream>
-#include "Dice.h"
 using namespace std;
 
 int janken() {
@@ -50,5 +49,5 @@ int janken() {
 				 }
 			 }
 		}
-		
+		return 1;
 }

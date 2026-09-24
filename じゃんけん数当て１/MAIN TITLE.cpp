@@ -3,9 +3,6 @@
 #include "janken.h"
 using namespace std;
 
-int janken();
-int kazuate();
-
 int main() {
     int game = 0;
     for (; ; ) {
